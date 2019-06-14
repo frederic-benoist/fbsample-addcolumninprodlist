@@ -6,7 +6,7 @@ Sample module for PrestaShop 1.7, add column Manufacturer in product list.
 
 - modify the list of products in the back-office
 - override of twig template
-- creation of new hook 
+- use of new hook 
   * displayAdminCatalogProductHeader
   * displayAdminCatalogProductFilter
   * displayAdminCatalogListingProductFields
