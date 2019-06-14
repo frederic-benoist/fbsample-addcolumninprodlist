@@ -1,4 +1,4 @@
-# PrestaShop 1.7 Sample Add column in product list
+# PrestaShop 1.7 sample module, add column in product list
 
 Sample module for PrestaShop 1.7, add column Manufacturer in product list.
 
