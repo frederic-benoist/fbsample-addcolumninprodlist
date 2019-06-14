@@ -1,0 +1,1 @@
+<th>{l s='Manufacturer' mod='fbsample_addcolumninprodlist'}</th>
